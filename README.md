@@ -1,11 +1,14 @@
-# Pinterest Ads MCP Server
+# Pinterest Ads MCP Server by Insightful Pipe
 
 [![MCP Compatible](https://img.shields.io/badge/MCP-Compatible-blue)](https://insightfulpipe.com/mcp-servers/pinterest-ads)
+[![Insightful Pipe](https://img.shields.io/badge/Insightful_Pipe-MCP_Servers-purple)](https://insightfulpipe.com/mcp-servers)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 > **Connect Pinterest Ads to AI assistants for visual advertising analytics and shopping campaign optimization.**
 
-The Pinterest Ads MCP server enables Claude, ChatGPT, Cursor, and other AI assistants to analyze your Pinterest advertising campaigns. Optimize visual marketing, track shopping performance, and get AI-powered recommendations.
+Part of the [Insightful Pipe MCP Server Collection](https://insightfulpipe.com/mcp-servers) — The Pinterest Ads MCP server enables Claude, ChatGPT, Cursor, and other AI assistants to analyze your Pinterest advertising campaigns. Optimize visual marketing, track shopping performance, and get AI-powered recommendations.
+
+[![Explore All MCP Servers](https://img.shields.io/badge/Explore_All-MCP_Servers-blue?style=for-the-badge)](https://insightfulpipe.com/mcp-servers)
 
 ![Pinterest Ads MCP Server](https://insightfulpipe.com/images/pinterest-round-color-icon.svg)
 
@@ -163,11 +166,20 @@ claude mcp add pinterest-ads https://pinterest-ads.insightfulmcp.com/
 - **Granular permissions** - Control access level
 - **Data encryption** - Secure transmission
 
-## Related MCP Servers
+## Explore More MCP Servers by Insightful Pipe
 
-- [Facebook Ads MCP](https://insightfulpipe.com/mcp-servers/facebook-ads) - Social advertising
+Visit **[insightfulpipe.com/mcp-servers](https://insightfulpipe.com/mcp-servers)** to discover our full collection of MCP servers for marketing and analytics.
+
+### Visual & E-commerce MCP Servers
 - [Instagram MCP](https://insightfulpipe.com/mcp-servers/instagram) - Visual social analytics
 - [Google Ads MCP](https://insightfulpipe.com/mcp-servers/google-ads) - Search + Shopping ads
+- [Facebook Ads MCP](https://insightfulpipe.com/mcp-servers/facebook-ads) - Social advertising
+
+### Social Advertising MCP Servers
+- [TikTok Ads MCP](https://insightfulpipe.com/mcp-servers/tiktok-ads) - Video advertising
+- [Snapchat Ads MCP](https://insightfulpipe.com/mcp-servers/snapchat-ads) - Gen-Z advertising
+
+**[View All MCP Servers →](https://insightfulpipe.com/mcp-servers)**
 
 ## Resources
 
@@ -178,7 +190,12 @@ claude mcp add pinterest-ads https://pinterest-ads.insightfulmcp.com/
 ## Support
 
 - **Documentation**: [insightfulpipe.com/docs](https://insightfulpipe.com/docs)
+- **All MCP Servers**: [insightfulpipe.com/mcp-servers](https://insightfulpipe.com/mcp-servers)
 - **Email**: support@insightfulpipe.com
+
+---
+
+**[Insightful Pipe](https://insightfulpipe.com)** — AI-powered marketing analytics through MCP servers. [Explore all integrations →](https://insightfulpipe.com/mcp-servers)
 
 ## License
 
