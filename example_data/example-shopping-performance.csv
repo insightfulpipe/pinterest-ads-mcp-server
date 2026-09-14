@@ -1,0 +1,6 @@
+product_id,product_name,impressions,saves,clicks,add_to_cart,checkouts,revenue,roas
+SKU001,Summer Dress,125000,2800,4500,680,245,12250.00,4.2
+SKU002,Canvas Sneakers,98000,1900,3800,520,180,7200.00,3.8
+SKU003,Leather Bag,82000,3200,2900,420,156,15600.00,5.1
+SKU004,Sunglasses,156000,1400,5200,380,210,6300.00,2.9
+SKU005,Watch Set,68000,2100,2400,290,125,18750.00,6.2
